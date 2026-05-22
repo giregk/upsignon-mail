@@ -80,10 +80,7 @@ const Template = async ({
             id="support"
             values={{
               link: (chunks) => (
-                <Link
-                  href="mailto:BS-SEPTEOITSOLUTIONS-Support@septeo.com"
-                  className="text-link-primary"
-                >
+                <Link href="mailto:help@rgsystem.com" className="text-link-primary">
                   {chunks}
                 </Link>
               ),
