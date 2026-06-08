@@ -10,7 +10,7 @@ type Args = {
 }
 
 const Template = async ({
-  emailValidationLink = 'default',
+  emailValidationLink = 'https://admin-pro.upsignon.eu/trial-request-confirm',
   locale = 'fr',
 }: Args & { locale: Locales }) => {
   return (
