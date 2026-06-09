@@ -1,7 +1,7 @@
 {
   "fr": {
     "subject": "Bienvenue chez UpSignOn – Démarrez votre essai gratuit",
-    "title": "Merci pour cette demande d’essai gratuit",
+    "title": "Votre banque est créée !",
     "content1": "Bonjour,",
     "content2": "⏳ <bold>Votre essai gratuit prendra fin automatiquement le { trialEndDate }</bold>. Passée cette date, l’accès à votre banque de coffres-forts sera suspendu.",
     "howToActivate": "Vous vous demandez comment faire pour l’activer ? - <italic>C’est parti</italic>",
@@ -17,7 +17,7 @@
   },
   "en": {
     "subject": "Welcome to UpSignOn – Start your free trial",
-    "title": "Thank you for this free trial request",
+    "title": "Your bank has been created!",
     "content1": "Hello,",
     "content2": "⏳ <bold>Your free trial will automatically end on { trialEndDate }</bold>. After this date, access to your vault bank will be suspended.",
     "howToActivate": "You are wondering how to activate it? - <italic>Here we go</italic>",

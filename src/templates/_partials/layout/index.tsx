@@ -26,7 +26,7 @@ export const Layout = ({ children, messages, locale }: TLayoutProps) => {
       <IntlProvider messages={mergedMessages} locale={locale}>
         <Tailwind config={tailwindConfig}>
           <Body className="font-sans">
-            <Container className="bg-white">
+            <Container className="mt-4 bg-white">
               <Header />
               {children}
               <Footer />
